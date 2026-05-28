@@ -1,0 +1,63 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin images/_AttackNoMovement-sheet.png
+/copy:images/_AttackNoMovement-sheet.png
+
+#begin images/_Idle-sheet.png
+/copy:images/_Idle-sheet.png
+
+#begin images/_Run.png
+/copy:images/_Run.png
+
+#begin images/atlas-definition.xml
+/copy:images/atlas-definition.xml
+
+#begin images/atlas.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:images/atlas.png
+
+#begin images/File.xml
+/copy:images/File.xml;images/tilemap-definition.xml
+
+#begin images/Knight_attack.xml
+/copy:images/Knight_attack.xml
+
+#begin images/Knight_idle.xml
+/copy:images/Knight_idle.xml
+
+#begin images/Knight_walk.xml
+/copy:images/Knight_walk.xml
+
+#begin images/ShadowFiend.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:images/ShadowFiend.png
+

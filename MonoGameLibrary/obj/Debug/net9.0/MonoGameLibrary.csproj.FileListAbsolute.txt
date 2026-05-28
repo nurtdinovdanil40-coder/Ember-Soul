@@ -1,0 +1,12 @@
+c:\Users\danil\Desktop\game\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.deps.json
+c:\Users\danil\Desktop\game\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.dll
+c:\Users\danil\Desktop\game\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.pdb
+c:\Users\danil\Desktop\game\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.AssemblyReference.cache
+c:\Users\danil\Desktop\game\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\danil\Desktop\game\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfoInputs.cache
+c:\Users\danil\Desktop\game\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfo.cs
+c:\Users\danil\Desktop\game\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+c:\Users\danil\Desktop\game\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.dll
+c:\Users\danil\Desktop\game\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
+c:\Users\danil\Desktop\game\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
+c:\Users\danil\Desktop\game\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+    <Texture>images/_Run</Texture>
+    <Regions>
+        <Region name="hero-1" x="40" y="40" width="40" height="40" />
+        <Region name="hero-2" x="160" y="40" width="40" height="40" />
+        <Region name="hero-3" x="280" y="40" width="40" height="40" />
+        <Region name="hero-4" x="400" y="40" width="40" height="40" />
+        <Region name="hero-5" x="520" y="40" width="40" height="40" />
+        <Region name="hero-6" x="640" y="40" width="40" height="40" />
+        <Region name="hero-7" x="760" y="40" width="40" height="40" />
+        <Region name="hero-8" x="880" y="40" width="40" height="40" />
+        <Region name="hero-9" x="1000" y="40" width="40" height="40" />
+        <Region name="hero-10" x="1120" y="40" width="40" height="40" /> 
+    </Regions>
+    <Animations>
+        <Animation name="knight-walk" delay="100">
+            <Frame region="hero-1" />
+            <Frame region="hero-2" />
+            <Frame region="hero-3" />
+            <Frame region="hero-4" />
+            <Frame region="hero-5" />
+            <Frame region="hero-6" />
+            <Frame region="hero-7" />
+            <Frame region="hero-8" />
+            <Frame region="hero-9" />
+            <Frame region="hero-10" />
+        </Animation>
+    </Animations>
+</TextureAtlas>

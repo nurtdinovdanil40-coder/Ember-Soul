@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+    <Texture>images/_Idle-sheet</Texture>
+    <Regions>
+        <Region name="hero-1" x="0" y="0" width="20" height="38" />
+        <Region name="hero-2" x="120" y="0" width="20" height="38" />
+        <Region name="hero-3" x="240" y="0" width="20" height="38" />
+        <Region name="hero-4" x="360" y="0" width="20" height="38" />
+        <Region name="hero-5" x="480" y="0" width="20" height="38" />
+        <Region name="hero-6" x="600" y="0" width="20" height="38" />
+        <Region name="hero-7" x="720" y="0" width="20" height="38"/>
+        <Region name="hero-8" x="840" y="0" width="20" height="38" />
+        <Region name="hero-9" x="960" y="0" width="20" height="38" />
+        <Region name="hero-10" x="1080" y="0" width="20" height="38" />
+    </Regions>
+    <Animations>
+        <Animation name="knight-idle" delay="100">
+            <Frame region="hero-1" />
+            <Frame region="hero-2" />
+            <Frame region="hero-3" />
+            <Frame region="hero-4" />
+            <Frame region="hero-5" />
+            <Frame region="hero-6" />
+            <Frame region="hero-7" />
+            <Frame region="hero-8" />
+            <Frame region="hero-9" />
+            <Frame region="hero-10" />
+        </Animation>
+    </Animations>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+    <Texture>images/_AttackNoMovement-sheet</Texture>
+    <Regions>
+        <Region name="hero-1" x="0" y="0" width="39" height="43" />
+        <Region name="hero-2" x="132" y="0" width="65" height="43" />
+        <Region name="hero-3" x="255" y="0" width="68" height="43" />
+        <Region name="hero-4" x="374" y="0" width="58" height="43" />
+    </Regions>
+    <Animations>
+        <Animation name="knight-attack" delay="100">
+            <Frame region="hero-1" />
+            <Frame region="hero-2" />
+            <Frame region="hero-3" />
+            <Frame region="hero-4" />
+        </Animation>
+    </Animations>
+</TextureAtlas>
